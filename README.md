@@ -26,7 +26,7 @@ I have used `UIKit` for user interface creation, `Combine` allows me to use feat
 
 |             Articles List         |         ArticleDetail          | 
 |---------------------------------|------------------------------|
-|![Demo](https://github.com/moazsaeed/Short-Video-like-tiktok/blob/main/Screenshots/list.png)|![Demo](https://github.com/moazsaeed/Short-Video-like-tiktok/blob/main/Screenshots/detail.png)|
+|![Demo](https://github.com/moazsaeed/Short-Video-like-tiktok/blob/main/Screenshots/listOfNews.png)|![Demo](https://github.com/moazsaeed/Short-Video-like-tiktok/blob/main/Screenshots/detail.png)|
 
 ## Architecture at a Glance
 
