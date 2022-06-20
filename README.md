@@ -1,6 +1,5 @@
 # Short-Video-like-tiktok
-This is Sample app for playing short videos like tiktok
-This app shows the list of video and clicking on any video opens new Screen to play videos and user can continuously scroll to next video.
+This is a simple app to hit the NY Times Most Popular Articles API and show a list of articles, that shows details when news on the list are tapped
 
 ## Demonstrations
 
@@ -21,13 +20,13 @@ Covers the following:
 ## Discussions
 
 I have used `UIKit` for user interface creation, `Combine` allows me to use features like publishers and subscribers. Used `MVVM` Architectural design pattern is for modularized, maintainable and decoupled Codeing, Bindings make UI updates easier to handle etc.
-`CompositionalLayouts` for listing, `Diffablle Datasource` for datasource for listings. `AVFoundation` `AVPlayer` for playing video
+`TableView` for listing, `Diffablle Datasource` for datasource for listings. `Kingfisher` for image loading and caching
 
 ## Screenshots
 
 |             Articles List         |         ArticleDetail          | 
 |---------------------------------|------------------------------|
-|![Demo](https://github.com/moazsaeed/Short-Video-like-tiktok/blob/main/Screenshots/list.png)|![Demo](https://github.com/moazsaeed/Short-Video-like-tiktok/blob/main/Screenshots/player.png)|
+|![Demo](https://github.com/moazsaeed/Short-Video-like-tiktok/blob/main/Screenshots/list.png)|![Demo](https://github.com/moazsaeed/Short-Video-like-tiktok/blob/main/Screenshots/detail.png)|
 
 ## Architecture at a Glance
 
